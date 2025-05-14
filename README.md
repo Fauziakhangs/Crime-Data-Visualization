@@ -6,4 +6,4 @@ Tools used include Tableau,R 🖥️, with libraries like GGally, ggplot2, corrp
 
 The outcome resulted in interactive and insightful visualizations revealing trends like Crime Composition 🏙️, Population vs. Crime Rates 🌎, and State Comparisons ⚖️, providing actionable insights into crime patterns and state-level discrepancies.
 
-git clone https://github.com/Fauziakhangs/Data-Visualization/blob/7701eb4e1811fbc66629d1fa59a960dc68c3f6b0/avg_Crime_tree.PNG
+![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/9c92b9622ca6c27d14b2c0765a640489aebb0c20/avg_Crime_tree.PNG)
