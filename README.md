@@ -7,3 +7,8 @@ Tools used include Tableau,R 🖥️, with libraries like GGally, ggplot2, corrp
 The outcome resulted in interactive and insightful visualizations revealing trends like Crime Composition 🏙️, Population vs. Crime Rates 🌎, and State Comparisons ⚖️, providing actionable insights into crime patterns and state-level discrepancies.
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/9b89b36e94e188b13e46f8e8ff9b10874ba0b8d1/corrplot2.PNG)
+
+1. Crime Composition by State
+
+Explanation: This bar chart illustrates the distribution of different crime types (e.g., violent crime, property crime) across various states. It highlights which states have higher incidences of specific crime categories, providing insights into regional crime profiles.
+
