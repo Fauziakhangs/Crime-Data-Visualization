@@ -10,7 +10,9 @@ The outcome resulted in interactive and insightful visualizations revealing tren
 
 1. Crime Composition by State
 
-Explanation: This bar chart illustrates the distribution of different crime types (e.g., violent crime, property crime) across various states. It highlights which states have higher incidences of specific crime categories, providing insights into regional crime profiles.
+Explanation: This choroplot illustrates the distribution of different crime types (e.g., violent crime, property crime) across various states. It highlights which states have higher incidences of specific crime categories, providing insights into regional crime profiles.
+
+
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/332781abe080600065746185e61549e934f11d42/avg_crime_Barchart.PNG)
 
