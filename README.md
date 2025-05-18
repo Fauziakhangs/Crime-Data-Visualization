@@ -10,19 +10,19 @@ Explanation: This choroplot illustrates the distribution of different crime type
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/5dc39e3d39dc296c3e15651c6bbd4c054e11e3f8/avg_crime_map.PNG)
 
-2. Avergae Crime per Capita:
+**2. Avergae Crime per Capita**
    
 Explanation: This bar chart refplects which state comprise of highest average crime rate allows 
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/332781abe080600065746185e61549e934f11d42/avg_crime_Barchart.PNG)
 
-3. Correlation Heatmap of Crime Types
+**3. Correlation Heatmap of Crime Types**
 
 Explanation: The correlation plot displays the association between different crime types. Strong correlations (positive or negative) can indicate patterns, such as burglary and robbery crimes has highest postitive correlation.
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/9b89b36e94e188b13e46f8e8ff9b10874ba0b8d1/corrplot2.PNG)
 
 
-Outcome:
+**Outcome**
 
 The outcome resulted in interactive and insightful visualizations revealing trends like Crime Composition 🏙️, Population vs. Crime Rates 🌎, and State Comparisons ⚖️, providing actionable insights into crime patterns and state-level discrepancies.
