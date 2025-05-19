@@ -1,4 +1,7 @@
-📊 **Project Overview: Crime Data Visualization**
+# Crime Data Visualization
+## Explored U.S. crime data using R and Tableau to reveal state-wise crime patterns and correlations. Created visualizations to highlight crime rates, regional trends, and inter-crime relationships for actionable insights.
+
+📊 **Project Overview**
 
 Analyzing and visualizing crime data across U.S. states to identify trends and correlations in various types of crimes. The goal is to understand how different crime categories correlate with factors like population, state averages, and regional variations.
 
