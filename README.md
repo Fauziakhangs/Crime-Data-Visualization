@@ -14,7 +14,7 @@ Explanation: This choroplot illustrates the distribution of different crime type
 
 **2. Avergae Crime per Capita**
    
-Explanation: This chart highlights states with the highest and lowest crime rates per capita. For example, in 2012, Arkansas had the highest crime rate at 638.5 per 100,000 residents, followed by Missouri and Aso on . Such insights can inform resource allocation and crime prevention strategiess 
+Explanation: This chart highlights states with the highest and lowest crime rates per capita. For example, in 2012, Arkansas had the highest crime rate at 638.5 per 100,000 residents, followed by Missouri and Aso on . Such insights can inform resource allocation and crime prevention strategies.
 
 ![image alt](https://github.com/Fauziakhangs/Data-Visualization/blob/332781abe080600065746185e61549e934f11d42/avg_crime_Barchart.PNG)
 
